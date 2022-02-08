@@ -1,0 +1,58 @@
+
+
+.jumbotron {
+    text-align: center;
+    color: black;
+    background-color: white;
+    border-bottom: 1px solid black;
+    border-radius: 0px;
+    border: solid black;
+  }
+
+
+
+  
+  .row {
+      color: black;
+      border-top: 1px white;
+  }
+
+  .time-block {
+    text-align: center;
+    
+  }
+
+  .hour {
+   background-color: white;
+    color: #000000;
+    border: 1px inset #000000;
+    font-style: bold;
+    text-align: center;
+    padding-top: 10px;
+  
+  }
+  
+
+  .past {
+    background-color: grey;
+  }
+  .present {
+    background-color: rgb(255, 72, 0);
+  }
+  .future {
+    background-color: yellowgreen;
+  }
+  .saveBtn {
+    border-left: 1px solid #0000;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: rgb(136, 252, 252);
+    color: black;
+    padding: 20px 40px;
+  }  
+
+  .saveBtn i:hover {
+    font-size: 25px;
+    transition: all .3s ease-in-out;
+  }
+  
